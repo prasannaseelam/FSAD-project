@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FSAD-project/static/css/main.f855e6bc.css",
+    "main.js": "/FSAD-project/static/js/main.eeedce94.js",
+    "static/js/453.183908db.chunk.js": "/FSAD-project/static/js/453.183908db.chunk.js",
+    "static/media/logo.svg": "/FSAD-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FSAD-project/index.html",
+    "main.f855e6bc.css.map": "/FSAD-project/static/css/main.f855e6bc.css.map",
+    "main.eeedce94.js.map": "/FSAD-project/static/js/main.eeedce94.js.map",
+    "453.183908db.chunk.js.map": "/FSAD-project/static/js/453.183908db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.eeedce94.js"
+  ]
+}
